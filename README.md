@@ -30,7 +30,7 @@
 #### Exemplo do final das testagens:
 ![image](https://github.com/Kenzie-Academy-Brasil-Developers/Teste-aptidao-fisica-js/assets/105017120/a788e7d6-3137-4c77-9880-dd116f876937)
 
-## Uso:
+#### Uso:
 <p>Para executar os testes, usaremos um comando de bash. Antes de executar o comando, tenha certeza de que está no diretório correto do projeto. Execute usando o comando ./test.sh (test é o nome do arquivo de testes, que poderia ser outro em projetos diferentes). Para que o comando ./ funcione, você precisa estar com seu terminal dentro do diretório onde está o arquivo script.js. Caso não saiba onde seu terminal está posicionado, você pode usar o comando pwd para retornar sua localização atual.</p>
 
 
